@@ -1,0 +1,7 @@
+C:\Users\Alej\Desktop\FIGV-6-Start\FIGV\Debug\glfw3.dll
+C:\Users\Alej\Desktop\FIGV-6-Start\FIGV\Debug\assimp-vc143-mtd.dll
+C:\Users\Alej\Desktop\FIGV-6-Start\FIGV\Debug\poly2tri.dll
+C:\Users\Alej\Desktop\FIGV-6-Start\FIGV\Debug\minizip.dll
+C:\Users\Alej\Desktop\FIGV-6-Start\FIGV\Debug\zlib1.dll
+C:\Users\Alej\Desktop\FIGV-6-Start\FIGV\Debug\pugixml.dll
+C:\Users\Alej\Desktop\FIGV-6-Start\FIGV\FIGV.dir\Debug\FIGV.vcxproj.Up2Date

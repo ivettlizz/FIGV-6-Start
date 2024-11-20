@@ -1,0 +1,3 @@
+D:/Master Desarrollo de Software/Fundamentos de Informatica Grafica y Visualizacion/FIGV-6-Start/FIGV-6-Start/FIGV/CMakeFiles/FIGV.dir
+D:/Master Desarrollo de Software/Fundamentos de Informatica Grafica y Visualizacion/FIGV-6-Start/FIGV-6-Start/FIGV/CMakeFiles/edit_cache.dir
+D:/Master Desarrollo de Software/Fundamentos de Informatica Grafica y Visualizacion/FIGV-6-Start/FIGV-6-Start/FIGV/CMakeFiles/rebuild_cache.dir

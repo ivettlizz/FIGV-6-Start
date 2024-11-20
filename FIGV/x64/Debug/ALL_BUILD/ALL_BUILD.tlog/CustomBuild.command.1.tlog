@@ -1,0 +1,10 @@
+^C:\USERS\ALEJ\DESKTOP\FIGV-6-START\FIGV\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Alej/Desktop/FIGV-6-Start/FIGV -BC:/Users/Alej/Desktop/FIGV-6-Start/FIGV --check-stamp-file C:/Users/Alej/Desktop/FIGV-6-Start/FIGV/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

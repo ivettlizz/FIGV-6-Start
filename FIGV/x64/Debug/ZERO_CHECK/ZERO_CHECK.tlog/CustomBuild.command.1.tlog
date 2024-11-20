@@ -1,0 +1,10 @@
+^C:\USERS\ALEJ\DESKTOP\FIGV-6-START\FIGV\CMAKEFILES\317912187C6FA181B8145461D3044320\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Alej/Desktop/FIGV-6-Start/FIGV -BC:/Users/Alej/Desktop/FIGV-6-Start/FIGV --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Alej/Desktop/FIGV-6-Start/FIGV/FIGV.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
